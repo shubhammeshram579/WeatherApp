@@ -39,7 +39,7 @@
 
 ### Clone this repository:
 
-- git clone https://github.com/your-username/weather-app.git
+- git clone https://github.com/shubhammeshram579/WeatherApp.git
 
 ### Navigate to the project directory:
 
